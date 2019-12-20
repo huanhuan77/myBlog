@@ -1,0 +1,3 @@
+```js
+<input  type="number" pattern="[0-9]*" @input="onInput($event.target.value)"v-model="number"  />
+```
